@@ -70,6 +70,7 @@ THE SOFTWARE.
 
 
 @ngu/carousel
+MIT
 
 core-js
 MIT
